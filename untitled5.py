@@ -21,7 +21,7 @@ import seaborn as sns
 import requests
 import pprint
 
-!streamlit hello
+
 
 !git clone 'https://github.com/datasets/geo-countries.git'
 
