@@ -23,7 +23,6 @@ import pprint
 
 
 
-git clone 'https://github.com/datasets/geo-countries.git'
 
 import io
 csv_url = 'https://covid.ourworldindata.org/data/owid-covid-data.csv'
