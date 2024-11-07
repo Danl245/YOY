@@ -72,7 +72,7 @@ def load_data():
 df = load_data()
 
 # Загружаем координаты стран для карты
-with open('datapackage.json') as json_file:
+with open('countries.geo.json') as json_file:
     json_locations = json.load(json_file)
 
 """ВИЗУАЛИЗАЦИЯ"""
