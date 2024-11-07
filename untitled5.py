@@ -16,8 +16,6 @@ import numpy as np
 from urllib.request import urlopen
 import json
 import os
-import matplotlib.pyplot as plt
-import seaborn as sns
 import requests
 import pprint
 
