@@ -12,10 +12,12 @@ Original file is located at
 import streamlit as st
 import pandas as pd
 import numpy as np
-
+import plotly.express as px
 from urllib.request import urlopen
 import json
 import os
+import matplotlib.pyplot as plt
+import seaborn as sns
 import requests
 import pprint
 
